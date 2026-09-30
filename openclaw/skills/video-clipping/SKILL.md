@@ -1,6 +1,6 @@
 ---
 name: video-clipping
-description: "Use when turning a long-form video into short-form clips for TikTok, Instagram Reels, or YouTube Shorts - requests like "clip this podcast", "find the best moments", "make five shorts", or "turn this long video into reels". Performs word-level transcription, transcript-first candidate selection, deterministic weighted scoring with temporal deduplication and topic diversity, frame-accurate cutting, CPU-friendly 9:16 subject-aware reframing, and local ffmpeg quality checks. Needs only Python 3.10+ and ffmpeg; no GPU and no API keys anywhere."
+description: "Use when turning a long-form video into short-form clips for TikTok, Instagram Reels, or YouTube Shorts - requests like \"clip this podcast\", \"find the best moments\", \"make five shorts\", or \"turn this long video into reels\". Performs word-level transcription, transcript-first candidate selection, deterministic weighted scoring with temporal deduplication and topic diversity, frame-accurate cutting, CPU-friendly 9:16 subject-aware reframing, and local ffmpeg quality checks. Needs only Python 3.10+ and ffmpeg; no GPU and no API keys anywhere."
 metadata:
   openclaw:
     emoji: "✂️"
